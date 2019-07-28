@@ -1,0 +1,137 @@
+{  
+   "options":[  
+      {  
+         "title":"Approval",
+         "id":"527",
+         "values":[  
+            {  
+               "option_id":"527",
+               "option_type_id":"14015",
+               "price":"10.0000",
+               "sku":"A",
+               "sort_order":"1",
+               "production_days":"11",
+               "production_days_type":"2",
+               "title":"Non-hazardous+area"
+            },
+            {  
+               "option_id":"527",
+               "option_type_id":"14016",
+               "price":"10.0000",
+               "sku":"B",
+               "sort_order":"2",
+               "production_days":"5",
+               "production_days_type":"1",
+               "title":"ATEX II1D Ex ia IIIC, II1G Ex ia IIC T6"
+            },
+            {  
+               "option_id":"527",
+               "option_type_id":"14017",
+               "price":"0.0000",
+               "sku":"E",
+               "sort_order":"3",
+               "production_days":"10",
+               "production_days_type":"2",
+               "title":"ATEX+II1/2D Ex ia IIIC,II1G Ex ia IIC T6"
+            },
+            {  
+               "option_id":"527",
+               "option_type_id":"14018",
+               "price":"0.0000",
+               "sku":"F",
+               "sort_order":"4",
+               "production_days":"3",
+               "production_days_type":"1",
+               "title":"ATEX IECEx II1/2D Ex ta/tb IIIC Da/Db"
+            }
+         ]
+      },
+      {  
+         "title":"Head; Cable Entry",
+         "id":"528",
+         "values":[  
+            {  
+               "option_id":"528",
+               "option_type_id":"14026",
+               "price":"5.0000",
+               "sku":"B",
+               "sort_order":"1",
+               "production_days":"1",
+               "production_days_type":"1",
+               "title":"TA30A Alu, IP66/68; M20"
+            },
+            {  
+               "option_id":"528",
+               "option_type_id":"14027",
+               "price":"0.0000",
+               "sku":"C",
+               "sort_order":"2",
+               "production_days":"12",
+               "production_days_type":"2",
+               "title":"TA30A Alu, IP66/68; NPT1/2"
+            }
+         ]
+      },
+      {  
+         "title":"Pipe Diameter; Material",
+         "id":"529",
+         "values":[  
+            {  
+               "option_id":"529",
+               "option_type_id":"14047",
+               "price":"10.0000",
+               "sku":"A",
+               "sort_order":"1",
+               "production_days":"2",
+               "production_days_type":"1",
+               "title":"9 mm; 316L, DIN43772-2G"
+            },
+            {  
+               "option_id":"529",
+               "option_type_id":"14048",
+               "price":"0.0000",
+               "sku":"B",
+               "sort_order":"2",
+               "production_days":"12",
+               "production_days_type":"2",
+               "title":"11 mm; 316L, DIN43772-2G"
+            },
+            {  
+               "option_id":"529",
+               "option_type_id":"14049",
+               "price":"0.0000",
+               "sku":"D",
+               "sort_order":"3",
+               "production_days":"3",
+               "production_days_type":"1",
+               "title":"9 mm; 316Ti, DIN43772-2G"
+            },
+            {  
+               "option_id":"529",
+               "option_type_id":"14050",
+               "price":"0.0000",
+               "sku":"E",
+               "sort_order":"4",
+               "production_days":null,
+               "production_days_type":"1",
+               "title":"11 mm; 316Ti, DIN43772-2G"
+            }
+         ]
+      }
+   ],
+   "exclusions":[  
+      {  
+         "14015":"A",
+         "14049":"D"
+      },
+      {  
+         "14015":"A",
+         "14026":"B"
+      },
+      {  
+         "14015":"A",
+         "14027":"B",
+         "14050":"E"
+      }
+   ]
+}
