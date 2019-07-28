@@ -38,3 +38,4 @@ we just have to make some modifications to be well displayed in Internet explore
 
 I wish it was exactly what I was supposed to do .
 
+Thank you for this opportunity to practice more and perform my skills.
