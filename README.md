@@ -1,7 +1,7 @@
 # VisayaCodeChallenge1
 First cold assessment in Visaya Code Challenge
 #################################################################<br>
-# what we know
+## what we know
 
 Configurator logic [Frontend] 
 Here at Visaya we manage very complex products. Most of the products have different 
@@ -21,7 +21,7 @@ As a means of explaining the file above, the exclusions should work the followin
 You will have to put in place a frontend solution that enforces any incoming exclusions 
 when configuring a product. Make sure your solution also runs on IE11. 
 
-# What we tried to do
+## What we tried to do
 
 As I tried to verify the json file given with this task in a json data validator in this website: https://jsonlint.com/ <br> I have corrected with my own assiduity. I hope it's what you meant to put in json file. <br>
 The user interface is elementary, as I tried just to put all conditions of the products, that we are supposed to respect when choosing configurations.
