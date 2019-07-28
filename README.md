@@ -32,9 +32,9 @@ The list of the exclusions is automatically recuperated from the JSON file, same
 I used WampServer to implement my code, but it still works with any Web development platform on windows, MacOs or Linux. <br>
 the code support all recent browsers, internet explorer 11 included.
 we just have to make some modifications to be well displayed in Internet explorer 11 browser: <br>
-● use a specific form to load JSON file (as shown in the code). <br>
-● disable cache for AJAX  with this insctruction $.ajaxSetup({ cache: false }); <br>
-● Use PSOT request with  contentType: 'text/plain .
+● Use a specific form to load JSON file (as shown in the code). <br>
+● Disable cache for AJAX  with this insctruction $.ajaxSetup({ cache: false }); <br>
+● Use POST request with  contentType: 'text/plain .
 
 I wish it was exactly what I was supposed to do .
 
